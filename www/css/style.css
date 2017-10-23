@@ -1,0 +1,27 @@
+/**/
+
+div.currentInstallation {
+    margin: 0 auto; 
+}
+
+table.installationData {
+    border-collapse: collapse;
+	text-align: center;
+	line-height: 1.2;
+    margin: 0 auto; 
+}
+table.installationData th {
+	width: 25%;
+	padding: 10px;
+	font-weight: bold;
+	vertical-align: top;
+	border: 1px solid #ccc;
+}
+table.installationData td {
+	width: 75%;
+	padding: 10px;
+	vertical-align: top;
+	border: 1px solid #ccc;
+    overflow-x: auto;
+}
+
